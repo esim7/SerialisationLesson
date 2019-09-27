@@ -1,0 +1,11 @@
+C:\Users\МакишевЕ\source\repos\SerialisationLesson\SerialisationLesson\bin\Debug\netcoreapp3.0\SerialisationLesson.exe
+C:\Users\МакишевЕ\source\repos\SerialisationLesson\SerialisationLesson\bin\Debug\netcoreapp3.0\SerialisationLesson.deps.json
+C:\Users\МакишевЕ\source\repos\SerialisationLesson\SerialisationLesson\bin\Debug\netcoreapp3.0\SerialisationLesson.runtimeconfig.json
+C:\Users\МакишевЕ\source\repos\SerialisationLesson\SerialisationLesson\bin\Debug\netcoreapp3.0\SerialisationLesson.runtimeconfig.dev.json
+C:\Users\МакишевЕ\source\repos\SerialisationLesson\SerialisationLesson\bin\Debug\netcoreapp3.0\SerialisationLesson.dll
+C:\Users\МакишевЕ\source\repos\SerialisationLesson\SerialisationLesson\bin\Debug\netcoreapp3.0\SerialisationLesson.pdb
+C:\Users\МакишевЕ\source\repos\SerialisationLesson\SerialisationLesson\obj\Debug\netcoreapp3.0\SerialisationLesson.csprojAssemblyReference.cache
+C:\Users\МакишевЕ\source\repos\SerialisationLesson\SerialisationLesson\obj\Debug\netcoreapp3.0\SerialisationLesson.AssemblyInfoInputs.cache
+C:\Users\МакишевЕ\source\repos\SerialisationLesson\SerialisationLesson\obj\Debug\netcoreapp3.0\SerialisationLesson.AssemblyInfo.cs
+C:\Users\МакишевЕ\source\repos\SerialisationLesson\SerialisationLesson\obj\Debug\netcoreapp3.0\SerialisationLesson.dll
+C:\Users\МакишевЕ\source\repos\SerialisationLesson\SerialisationLesson\obj\Debug\netcoreapp3.0\SerialisationLesson.pdb
